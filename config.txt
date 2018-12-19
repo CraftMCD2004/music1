@@ -1,0 +1,6 @@
+token= NTI1MDAwOTcwODg4MDIwMDA5.DvwRrw.O3ZRwnJCxt_z9mG9W4Ny-DZrj2c
+owner= 498991974393708554
+prefix= 1
+game= Zero Server
+stayinchannel= true
+songinstatus= true
